@@ -1,2 +1,5 @@
 # hello-world
-This is a test
+EyUp
+Im Steve
+Just finding out about github!
+
